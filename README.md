@@ -4,12 +4,16 @@ A basic and lean recipe for implementing progressive downloading in a node expre
 
 To install
 -
-npm install
+```
+$ npm install
+```
 
 
 To run
 -
-sudo npm start
+```
+$ sudo npm start
+```
 
 
 To test in a browser
