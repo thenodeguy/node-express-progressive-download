@@ -1,5 +1,6 @@
 # node-express-progressive-download
-A basic and lean recipe for implementing progressive downloading in a node express server.
+A basic and lean recipe for implementing progressive downloading (HTTP pseudo-streaming)
+in a node express server, with HTML5 support on the client.
 
 
 To install
