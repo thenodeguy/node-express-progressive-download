@@ -1,0 +1,24 @@
+{
+  "name": "node-express-progressive-download",
+  "description": "A basic and lean recipe for implementing progressive downloading in a node express server.",
+  "version": "1.0.0",
+  "author": "benjaminvickers",
+  "license": "ISC",
+  "homepage": "https://github.com/benjaminvickers/node-express-progressive-download#readme",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "~4.13.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminvickers/node-express-progressive-download.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benjaminvickers/node-express-progressive-download/issues"
+  }
+}
